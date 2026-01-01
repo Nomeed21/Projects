@@ -13,6 +13,8 @@
 - Linux
 - Bash
 
-Current Project Working:
+*Current Project Working*: 
+Daily habits tracker
 
-Finished Projects:
+*Finished Projects:*
+Money Manager 
