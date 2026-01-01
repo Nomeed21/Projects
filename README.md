@@ -1,15 +1,17 @@
-Developer: Nurmid J Mayo
+# Developer: Nurmid J Mayo
 
-Goals : 
+**Goals** : 
 - Aspiring software developer
 - Full Stack Developer
 - Specialized on multiple languages
 - Make a project that can help my life
 
-Stacks / Skills:
+**Stacks / Skills**:
 - C language
 - HTML / CSS
 - Python
+- Linux
+- Bash
 
 Current Project Working:
 
