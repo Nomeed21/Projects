@@ -1,0 +1,21 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+app
+
+# Data files (NEVER upload these)
+*.bin
+*.txt
+finance_data.bin
+transaction_log.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
