@@ -1,0 +1,274 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy Anniversary my love!!</title>
+<style>
+  /* Base Styles & Aesthetics */
+  :root {
+    --primary-color: #ff6b81;
+    --background-color: #fff0f3;
+    --text-color: #2f3542;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    overflow-x: hidden;
+  }
+
+  /* --- Stage 1: Game/Reveal Screen --- */
+  #reveal-screen {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+  }
+  
+  #reveal-btn {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: white;
+    color: var(--primary-color);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.2s, background-color 0.2s;
+    margin-top: 20px;
+  }
+
+  /* --- Stage 2: Main Surprise Content --- */
+  #main-content {
+    display: none; 
+    opacity: 0;
+    transition: opacity 1s ease-in;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .visible {
+    display: block !important;
+    opacity: 1 !important;
+  }
+
+  /* Header & Counter */
+  header { 
+    text-align: center; 
+    padding: 60px 0 30px 0; 
+  }
+  
+  h1 { 
+    font-size: 3rem; 
+    color: var(--primary-color); 
+    margin-bottom: 10px; 
+  }
+  
+  #counter { 
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    color: #57606f; 
+  }
+
+    /* Featured Big Photo */
+  .featured-photo {
+    width: 100%;
+    margin: 30px 0 50px 0;
+    text-align: center;
+  }
+  
+  .featured-photo img {
+    width: 100%;
+    max-height: 600px; /* Keeps landscape photos from getting too tall */
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+  }
+  
+  .featured-photo img:hover {
+    transform: scale(1.01);
+  }
+    
+  /* Photo Collage (CSS Grid) */
+  .collage {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 40px 0;
+  }
+  
+  .collage img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .collage img:hover { 
+    transform: scale(1.03); 
+  }
+
+  /* Long Message Section */
+  #message-section {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 30px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    margin-bottom: 50px;
+  }
+  
+  .message-content { 
+    font-size: 1.2rem; 
+    line-height: 1.8; 
+    max-width: 800px; 
+  }
+</style>
+</head>
+<body>
+
+<div id="reveal-screen">
+  <h2>Click CLiCK</h2>
+  <p>Catch the button to unlock your surprise!</p>
+  <button id="reveal-btn">Click Me (0/3)</button>
+</div>
+
+<div id="main-content">
+  
+  <header>
+    <h1>Happy 3rd Anniversary My Love, My future Wifeyy, and My Everthingg!!</h1>
+    <h2>Last year highlights: </h2>
+    <div id="counter">Calculating our time together...</div>
+  </header>
+  <section class="featured-photo">
+    <img src="Collections.jpeg" alt="Our Favorite Memory">
+  </section>
+
+  <section class="collage">
+    <img src="image1.jpeg" alt="Memory 1">
+    <img src="image2.jpeg" alt="Memory 2">
+    <img src="image3.jpeg" alt="Memory 3">
+    <img src="image4.jpeg" alt="Memory 4">
+    <img src="image5.jpeg" alt="Memory 5">
+    <img src="image6.jpeg" alt="Memory 6">
+    <img src="image7.jpeg" alt="Memory 1">
+    <img src="image8.jpeg" alt="Memory 2">
+    <img src="image9.jpeg" alt="Memory 3">
+    <img src="image10.jpeg" alt="Memory 4">
+    <img src="image11.jpeg" alt="Memory 5">
+    <img src="image12.jpeg" alt="Memory 6">
+    <img src="image13.jpeg" alt="Memory 1">
+    <img src="image14.jpeg" alt="Memory 2">
+    <img src="image15.jpeg" alt="Memory 3">
+    <img src="image16.jpeg" alt="Memory 4">
+    <img src="image17.jpeg" alt="Memory 5">
+    <img src="image18.jpeg" alt="Memory 6">
+    <img src="image19.jpeg" alt="Memory 1">
+    <img src="image20.jpeg" alt="Memory 2">
+    <img src="image21.jpeg" alt="Memory 3">
+    <img src="image22.jpeg" alt="Memory 4">
+  </section>
+
+  <section id="message-section">
+    <div class="message-content">
+      <h2>I Loveee Youu Forever and Ever</h2>
+      <p>
+        Happyyyy 3rd anniversary mahall!!🥰🥰😍😍😍 we've reached our 3rd year na since nagkaron na tayo ng label hehe🥰🥰🤭🤭 🥰🥰😍😍 Turn on the volume... 
+
+        To be honest po mas special talaga sakin ung november 11 kaysa ngayon because since that day, I considered you as my love of my life.. Ay saws pero since dati po kahit hindi pa halata at medyo nagkakalabuan pa tayo nung unang pag uusap ulit natin since breakup,
+
+
+          
+Today is February 18 since I started writing this message. Kakauwi lang natin kasi sinundo kita at sinamahan at hindi tayo nag away ngayon!!🥰😍😍😍 ngayon ko lang narealize na ang sarap pala ng hindi nag aaway. Napaka ganda ko sa paningin ko at super cute mo nainlove ulit ako sayoooo ugh. Sa totoo lang mahirap din talaga na magkaaway tayo lagi at alam ko pong mali ko pero tinatry ko parin baguhin sarili ko. 
+Today is Feb 19 saglit lang tayo nag sama☹️ Na realize ko na masyado na kong nagiging dependent sa presensya mo😩 miss na agad kita. Na realize ko din na buti pala nag tup ako. Buti lagi tayong magkasama at nagkakaroon pa ako ng time sayo. Buti nalang🥰🥰 Iloveyouusomuchh 😘😘😍😍
+Habang nanonood me ng Bon appetit naalala kita at feeling ko super swerte ko dahil may maganda kong girlfriend and super galing magluto🥰🥰😍😍 So excited sa ating magiging future hehe Iloveyouu!!🥺🥺🥺😘😘😘
+Gusto ko lang din po sabihin na sorry sa pang iinis sayo minsan at sa pangkukulit ko po☹️ minsan po gusto ko talaga ng atensyon mo kasi either nakyukyutan ako sayo or d mo ko pinapansin kaya nagiging makulit ako😭😭 Pero tinatry ko po best ko na hindi na maging makulit🥺 Siguro 1 day mag sasawa or masasaktan ako ng sobra para d na maging makulit sayo I'll try my besty po mahall d na magiging makulit sayoo this year!!! Iloveyouusomuchh mahall🥺🥺🥺 Tiis lang po😭😭😭 tinatry ko po talaga kahit d man halata and sana wag po to maging dahilan ng paghiwalay natin kasi sa totoo po eto ang love language ko😞😞 and pinanganak na kong makulit at papansin. 
+Today nag away po tayo ngayon☹️☹️☹️ sorry dahil sinabi ko na bat kapa pupunta dito kung nandyan kana sa bahay sorry po kung na feel mo na ayaw na ayaw kong papuntahin ka dito🥺🥺 totoo po nag bibiro lang talaga ako nun at un lang talaga pero gustong gusto ko po kasama ka lagi🥺🥺😭😭 nung sinabi mong ayaw mo na mag celebrate ng anniversary natin naging super sad po ako☹️☹️ Gusto ko po i celebrate kasi special day para satin un🥺🥺 mahal na mahal po kita at sana matiis mo po ako😭😭 
+March 1 na march 1 inaaway mo ko😤 jk ako nangaway sorry poo mahall kasi seloso ako dyan sa kabit mo🥺🥺 Kahit pa ganto ako minsan po kung ano ano na nagagawa ko kasi uhaw ako sa atensyon mo 😭😭 mahal na mahal na mahal po kitaaa kahit na ganto ako at takot lang talaga ako na iwanan mo ko at mainlove ka sa iba☹️☹️☹️ ILOVEYOUU🥺🥺
+You so beautiful like the moon today🥰🥰🥰🥰 kahit na ang blood moon ay nangyayari lang not very often but your beauty shines everyday to my eyes!!😍😍😍 Iloveyoubabyyy kooo and I'll always love youu kahit kapagod na ung palaging pamumuna mo sakin😞😞 ILOOVEEYOUUU HAPPPYY ANNIVERSARY 😍😍😍😍
+
+Cringe man at hindi maayos ang website pero I'll keep improving and updating this sana magustuhan moo poo!!🥰🥰🥰
+      </p>
+    </div>
+  </section>
+
+  <audio id="bg-music" src="music.mp3" preload="auto"></audio>
+
+</div>
+
+<script>
+  // 1. Game/Reveal Logic (Catch the button)
+  let clicks = 0;
+  const revealBtn = document.getElementById('reveal-btn');
+  const revealScreen = document.getElementById('reveal-screen');
+  const mainContent = document.getElementById('main-content');
+
+  revealBtn.addEventListener('click', () => {
+    clicks++;
+    if (clicks < 3) {
+      revealBtn.innerText = `Keep trying! (${clicks}/3)`;
+      // Shifts the button dynamically so they have to "catch" it
+      revealBtn.style.transform = `translate(${Math.random() * 80 - 40}px, ${Math.random() * 80 - 40}px)`;
+    } else {
+      // Game passed, reveal site
+      revealScreen.style.display = 'none';
+      mainContent.classList.add('visible');
+    }
+  });
+
+  // 2. Date Counter Logic
+  // FORMAT: new Date(YEAR, MONTH, DAY). Note: Months are 0-indexed (0=Jan, 1=Feb... 11=Dec)
+  // Example below is set for March 15th, 2022
+  const startDate = new Date(2022, 2, 15).getTime();
+
+  setInterval(() => {
+    const now = new Date().getTime();
+    const diff = now - startDate;
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+    document.getElementById("counter").innerHTML = 
+      `${days} Days, ${hours} Hours, ${minutes} Minutes, ${seconds} Seconds`;
+  }, 1000);
+
+  // 3. Scroll Detection for Music
+  // Uses Intersection Observer to detect when the message section is on screen
+  const music = document.getElementById('bg-music');
+  const messageSection = document.getElementById('message-section');
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // Play music when section comes into view (50% visibility)
+        music.play().catch(e => console.log("Audio requires valid source file:", e));
+      } 
+    });
+  }, { threshold: 0.5 }); 
+
+  observer.observe(messageSection);
+</script>
+</body>
+</html>
