@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Nurmid/Documents/school/projj/journal
+-cmake-output
+-output-file
+C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/qml_imports/appjournal_build.cmake
+-importPath
+C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
+-importPath
+C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/journal
+-importPath
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/qml
+-qrcFiles
+C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qmake_journal.qrc
+C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/appjournal_raw_qml_0.qrc

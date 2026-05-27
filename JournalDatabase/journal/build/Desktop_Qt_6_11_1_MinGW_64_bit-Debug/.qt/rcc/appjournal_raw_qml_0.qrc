@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/journal/">
+    <file alias="Main.qml">C:/Users/Nurmid/Documents/school/projj/journal/Main.qml</file>
+  </qresource>
+</RCC>
+
