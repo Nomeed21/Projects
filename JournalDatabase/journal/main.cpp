@@ -1,18 +1,20 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QQmlContext>
+#include <QQuickStyle>
+#include "journalmanager.h"
 
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
+    QQuickStyle::setStyle("Material");
 
+    JournalManager backendManager;
     QQmlApplicationEngine engine;
-    QObject::connect(
-        &engine,
-        &QQmlApplicationEngine::objectCreationFailed,
-        &app,
-        []() { QCoreApplication::exit(-1); },
-        Qt::QueuedConnection);
+
+    engine.rootContext()->setContextProperty("Backend", &backendManager);
+
     engine.loadFromModule("journal", "Main");
 
-    return QGuiApplication::exec();
+    return app.exec();
 }

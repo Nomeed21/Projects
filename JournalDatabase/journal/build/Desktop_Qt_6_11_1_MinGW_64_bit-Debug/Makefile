@@ -551,6 +551,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loa
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appjournal.dir\build.make CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.s
 
+journalmanager.obj: journalmanager.cpp.obj
+.PHONY : journalmanager.obj
+
+# target to build an object file
+journalmanager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appjournal.dir\build.make CMakeFiles/appjournal.dir/journalmanager.cpp.obj
+.PHONY : journalmanager.cpp.obj
+
+journalmanager.i: journalmanager.cpp.i
+.PHONY : journalmanager.i
+
+# target to preprocess a source file
+journalmanager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appjournal.dir\build.make CMakeFiles/appjournal.dir/journalmanager.cpp.i
+.PHONY : journalmanager.cpp.i
+
+journalmanager.s: journalmanager.cpp.s
+.PHONY : journalmanager.s
+
+# target to generate assembly for a file
+journalmanager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appjournal.dir\build.make CMakeFiles/appjournal.dir/journalmanager.cpp.s
+.PHONY : journalmanager.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -624,6 +648,9 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.s
+	@echo ... journalmanager.obj
+	@echo ... journalmanager.i
+	@echo ... journalmanager.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

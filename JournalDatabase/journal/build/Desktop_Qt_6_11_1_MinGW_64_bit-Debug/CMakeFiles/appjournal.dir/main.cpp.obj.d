@@ -399,4 +399,13 @@ CMakeFiles/appjournal.dir/main.cpp.obj: \
  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlregistration.h \
  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQmlIntegration/qqmlintegration.h \
  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlerror.h \
- C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/QQmlContext \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlcontext.h \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/QQuickStyle \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qquickstyle.h \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qtquickcontrols2global.h \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qtquickcontrols2exports.h \
+ C:\Users\Nurmid\Documents\school\projj\journal\journalmanager.h \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QObject \
+ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QString

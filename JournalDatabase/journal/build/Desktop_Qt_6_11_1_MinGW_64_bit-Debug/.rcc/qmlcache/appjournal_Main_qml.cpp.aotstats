@@ -6,11 +6,35 @@
                 {
                     "entries": [
                         {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "saveToDisk",
+                            "line": 18,
+                            "message": "Cannot access value for name Backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "loadFromDisk",
+                            "line": 28,
+                            "message": "Cannot access value for name Backend"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
                             "codegenResult": 0,
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 22,
+                            "line": 48,
                             "message": ""
                         },
                         {
@@ -18,7 +42,7 @@
                             "column": 20,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 53,
+                            "line": 79,
                             "message": ""
                         },
                         {
@@ -26,111 +50,127 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 57,
+                            "line": 85,
                             "message": "Cannot access value for name tableView"
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 30,
-                            "durationMicroseconds": 0,
-                            "functionName": "text",
-                            "line": 59,
-                            "message": "Cannot access value for name model"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 30,
-                            "durationMicroseconds": 0,
-                            "functionName": "text",
-                            "line": 60,
-                            "message": "Cannot access value for name model"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 0,
-                            "functionName": "checked",
-                            "line": 61,
-                            "message": "Could not find property \"checked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 37,
-                            "durationMicroseconds": 0,
-                            "functionName": "checked",
-                            "line": 62,
-                            "message": "Could not find property \"checked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 30,
-                            "durationMicroseconds": 0,
-                            "functionName": "text",
-                            "line": 63,
-                            "message": "Cannot access value for name model"
-                        },
-                        {
                             "codegenResult": 0,
-                            "column": 76,
+                            "column": 35,
                             "durationMicroseconds": 0,
-                            "functionName": "elide",
-                            "line": 63,
+                            "functionName": "fill",
+                            "line": 93,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 30,
+                            "column": 34,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 64,
+                            "line": 98,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 99,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 102,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 103,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 105,
                             "message": "Cannot access value for name model"
                         },
                         {
                             "codegenResult": 0,
-                            "column": 79,
+                            "column": 98,
                             "durationMicroseconds": 0,
                             "functionName": "elide",
-                            "line": 64,
+                            "line": 105,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 30,
+                            "column": 34,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 65,
+                            "line": 106,
                             "message": "Cannot access value for name model"
                         },
                         {
                             "codegenResult": 0,
-                            "column": 74,
+                            "column": 101,
                             "durationMicroseconds": 0,
                             "functionName": "elide",
-                            "line": 65,
+                            "line": 106,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 36,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 107,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 96,
+                            "durationMicroseconds": 0,
+                            "functionName": "elide",
+                            "line": 107,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 74,
+                            "line": 117,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 36,
+                            "column": 40,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 95,
+                            "line": 134,
                             "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 0,
+                            "functionName": "foreground",
+                            "line": 133,
+                            "message": "Could not find property \"foreground\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 105,
+                            "line": 149,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
@@ -138,63 +178,63 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 103,
+                            "line": 147,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 27,
+                            "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 126,
+                            "line": 175,
                             "message": "Could not find property \"centerIn\"."
                         },
                         {
                             "codegenResult": 0,
-                            "column": 27,
+                            "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 137,
+                            "line": 186,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 23,
+                            "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 143,
+                            "line": 192,
                             "message": "Cannot access value for name currentEditIndex"
                         },
                         {
                             "codegenResult": 0,
-                            "column": 72,
+                            "column": 80,
                             "durationMicroseconds": 0,
                             "functionName": "alignment",
-                            "line": 144,
+                            "line": 193,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 46,
+                            "column": 54,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 148,
+                            "line": 197,
                             "message": "Could not find property \"model\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 23,
+                            "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 158,
+                            "line": 207,
                             "message": "Could not find property \"text\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 28,
+                            "column": 36,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 161,
+                            "line": 210,
                             "message": "Could not find signal \"clicked\"."
                         }
                     ],

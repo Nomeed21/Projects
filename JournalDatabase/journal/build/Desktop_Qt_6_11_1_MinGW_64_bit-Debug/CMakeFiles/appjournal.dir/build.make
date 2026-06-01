@@ -80,9 +80,10 @@ appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mi
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6core_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6qml_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6network_metatypes.json
-appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6gui_metatypes.json
+appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6opengl_metatypes.json
+appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6quickcontrols2_metatypes.json
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic QML type registration for target appjournal"
 	call .qt\bin\qt_setup_tool_path.bat C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/bin/qmltyperegistrar.exe --generate-qmltypes=C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/journal/appjournal.qmltypes --import-name=journal --major-version=254 --minor-version=254 @C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/qmltypes/appjournal_foreign_types.txt -o C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/appjournal_qmltyperegistrations.cpp C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/meta_types/qt6appjournal_metatypes.json
 	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/qmltypes
@@ -198,11 +199,26 @@ CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_journal.cpp.s"
 	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.qt\rcc\qrc_qmake_journal.cpp -o CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.qt\rcc\qrc_qmake_journal.cpp.s
 
+CMakeFiles/appjournal.dir/journalmanager.cpp.obj: CMakeFiles/appjournal.dir/flags.make
+CMakeFiles/appjournal.dir/journalmanager.cpp.obj: CMakeFiles/appjournal.dir/includes_CXX.rsp
+CMakeFiles/appjournal.dir/journalmanager.cpp.obj: C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.cpp
+CMakeFiles/appjournal.dir/journalmanager.cpp.obj: CMakeFiles/appjournal.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appjournal.dir/journalmanager.cpp.obj"
+	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appjournal.dir/journalmanager.cpp.obj -MF CMakeFiles\appjournal.dir\journalmanager.cpp.obj.d -o CMakeFiles\appjournal.dir\journalmanager.cpp.obj -c C:\Users\Nurmid\Documents\school\projj\journal\journalmanager.cpp
+
+CMakeFiles/appjournal.dir/journalmanager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appjournal.dir/journalmanager.cpp.i"
+	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Nurmid\Documents\school\projj\journal\journalmanager.cpp > CMakeFiles\appjournal.dir\journalmanager.cpp.i
+
+CMakeFiles/appjournal.dir/journalmanager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appjournal.dir/journalmanager.cpp.s"
+	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Nurmid\Documents\school\projj\journal\journalmanager.cpp -o CMakeFiles\appjournal.dir\journalmanager.cpp.s
+
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj: CMakeFiles/appjournal.dir/flags.make
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj: CMakeFiles/appjournal.dir/includes_CXX.rsp
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj: .rcc/qmlcache/appjournal_qmlcache_loader.cpp
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj: CMakeFiles/appjournal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj"
 	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj -MF CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.rcc\qmlcache\appjournal_qmlcache_loader.cpp.obj.d -o CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.rcc\qmlcache\appjournal_qmlcache_loader.cpp.obj -c C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.rcc\qmlcache\appjournal_qmlcache_loader.cpp
 
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.i: cmake_force
@@ -217,7 +233,7 @@ CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcac
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj: CMakeFiles/appjournal.dir/includes_CXX.rsp
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj: .rcc/qmlcache/appjournal_Main_qml.cpp
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj: CMakeFiles/appjournal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj"
 	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj -MF CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.rcc\qmlcache\appjournal_Main_qml.cpp.obj.d -o CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.rcc\qmlcache\appjournal_Main_qml.cpp.obj -c C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.rcc\qmlcache\appjournal_Main_qml.cpp
 
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.i: cmake_force
@@ -232,7 +248,7 @@ CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj: CMakeFiles/appjournal.dir/includes_CXX.rsp
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj: .qt/rcc/qrc_appjournal_raw_qml_0.cpp
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj: CMakeFiles/appjournal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj"
 	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj -MF CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.qt\rcc\qrc_appjournal_raw_qml_0.cpp.obj.d -o CMakeFiles\appjournal.dir\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.qt\rcc\qrc_appjournal_raw_qml_0.cpp.obj -c C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\.qt\rcc\qrc_appjournal_raw_qml_0.cpp
 
 CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.i: cmake_force
@@ -249,6 +265,7 @@ appjournal_OBJECTS = \
 "CMakeFiles/appjournal.dir/main.cpp.obj" \
 "CMakeFiles/appjournal.dir/appjournal_qmltyperegistrations.cpp.obj" \
 "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_journal.cpp.obj" \
+"CMakeFiles/appjournal.dir/journalmanager.cpp.obj" \
 "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj" \
 "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj" \
 "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj"
@@ -260,10 +277,12 @@ appjournal.exe: CMakeFiles/appjournal.dir/appjournal_autogen/mocs_compilation.cp
 appjournal.exe: CMakeFiles/appjournal.dir/main.cpp.obj
 appjournal.exe: CMakeFiles/appjournal.dir/appjournal_qmltyperegistrations.cpp.obj
 appjournal.exe: CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_journal.cpp.obj
+appjournal.exe: CMakeFiles/appjournal.dir/journalmanager.cpp.obj
 appjournal.exe: CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj
 appjournal.exe: CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj
 appjournal.exe: CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appjournal_raw_qml_0.cpp.obj
 appjournal.exe: CMakeFiles/appjournal.dir/build.make
+appjournal.exe: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/libQt6QuickControls2.a
 appjournal.exe: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/libQt6Quick.a
 appjournal.exe: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/libQt6OpenGL.a
 appjournal.exe: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/libQt6Gui.a
@@ -275,7 +294,7 @@ appjournal.exe: appjournal.exe.manifest
 appjournal.exe: CMakeFiles/appjournal.dir/linkLibs.rsp
 appjournal.exe: CMakeFiles/appjournal.dir/objects1.rsp
 appjournal.exe: CMakeFiles/appjournal.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable appjournal.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable appjournal.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\appjournal.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

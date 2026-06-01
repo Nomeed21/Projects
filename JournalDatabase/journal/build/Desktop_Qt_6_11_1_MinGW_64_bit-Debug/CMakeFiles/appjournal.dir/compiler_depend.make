@@ -9,7 +9,116 @@ appjournal_autogen/timestamp: C:/Users/Nurmid/Documents/school/projj/journal/CMa
   CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
   CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
   CMakeFiles/3.30.5/CMakeSystem.cmake \
+  appjournal_autogen/moc_predefs.h \
+  C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.cpp \
+  C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.h \
   C:/Users/Nurmid/Documents/school/projj/journal/main.cpp \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QObject \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QString \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20memory.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qanystringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydata.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qassert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qchar.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qflags.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmalloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmath.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qoverload.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpair.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstring.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringlist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qswap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtnoop.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtresource.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttranslation.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversion.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake \
@@ -667,6 +776,24 @@ appjournal_autogen/timestamp: C:/Users/Nurmid/Documents/school/projj/journal/CMa
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargetsPrecheck.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickVersionlessAliasTargets.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2AdditionalTargetInfo.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Config.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersion.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersionImpl.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Dependencies.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets-relwithdebinfo.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2TargetsPrecheck.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2VersionlessAliasTargets.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2AdditionalTargetInfo.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Config.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersion.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersionImpl.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Dependencies.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets-relwithdebinfo.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2TargetsPrecheck.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2VersionlessAliasTargets.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsAdditionalTargetInfo.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersion.cmake \
@@ -687,103 +814,573 @@ appjournal_autogen/timestamp: C:/Users/Nurmid/Documents/school/projj/journal/CMa
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargetsPrecheck.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeVersionlessAliasTargets.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/bin/cmake.exe \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeMinGWFindMake.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystem.cmake.in \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckLibraryExists.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindThreads.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
 
-CMakeFiles/appjournal.dir/appjournal_autogen/mocs_compilation.cpp.obj: appjournal_autogen/mocs_compilation.cpp
+CMakeFiles/appjournal.dir/appjournal_autogen/mocs_compilation.cpp.obj: appjournal_autogen/mocs_compilation.cpp \
+  C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QObject \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QString \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20algorithm.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20memory.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qanystringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydata.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qassert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qchar.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qflags.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmalloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmath.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qoverload.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpair.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstring.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringlist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qswap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmocconstants.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmochelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtnoop.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtresource.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttranslation.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversion.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  appjournal_autogen/EWIEGA46WW/moc_journalmanager.cpp
 
 CMakeFiles/appjournal.dir/appjournal_qmltyperegistrations.cpp.obj: appjournal_qmltyperegistrations.cpp \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
@@ -1949,7 +2546,402 @@ CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcac
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h
 
+CMakeFiles/appjournal.dir/journalmanager.cpp.obj: C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.cpp \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QDebug \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QDir \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QFile \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QObject \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QString \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QTextStream \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20memory.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20utility.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qanystringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydata.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qassert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcalendar.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qchar.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatetime.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdir.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdirlisting.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfile.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfiledevice.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfileinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qflags.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhash.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevice.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlocale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmalloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmath.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qoverload.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpair.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qset.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qshareddata.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qspan.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstring.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringlist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qswap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtextstream.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtimezone.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtnoop.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtresource.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttranslation.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversion.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qvariant.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_dir.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_fwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_ops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_path.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/codecvt \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/filesystem \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.h
+
 CMakeFiles/appjournal.dir/main.cpp.obj: C:/Users/Nurmid/Documents/school/projj/journal/main.cpp \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QObject \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QString \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h \
@@ -2107,6 +3099,7 @@ CMakeFiles/appjournal.dir/main.cpp.obj: C:/Users/Nurmid/Documents/school/projj/j
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkexports.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkglobal.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/QQmlApplicationEngine \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/QQmlContext \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsengine.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsnumbercoercion.h \
@@ -2115,6 +3108,7 @@ CMakeFiles/appjournal.dir/main.cpp.obj: C:/Users/Nurmid/Documents/school/projj/j
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqml.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlapplicationengine.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlcontext.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmldebug.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlengine.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlerror.h \
@@ -2127,6 +3121,10 @@ CMakeFiles/appjournal.dir/main.cpp.obj: C:/Users/Nurmid/Documents/school/projj/j
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qtqmlexports.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qtqmlglobal.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQmlIntegration/qqmlintegration.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/QQuickStyle \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qquickstyle.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qtquickcontrols2exports.h \
+  C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qtquickcontrols2global.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
@@ -2349,62 +3347,95 @@ CMakeFiles/appjournal.dir/main.cpp.obj: C:/Users/Nurmid/Documents/school/projj/j
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
   C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
+  C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.h
 
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmath.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlregistration.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargets-relwithdebinfo.cmake:
+
 CMakeFiles/3.30.5/CMakeRCCompiler.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/windows/app.exe.manifest.in:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayview.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc:
 
 C:/Users/Nurmid/Documents/school/projj/journal/CMakeLists.txt:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfile.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake:
 
 CMakeFiles/3.30.5/CMakeCXXCompiler.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayalgorithms.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic.h:
 
 .qt/qml_imports/appjournal_conf.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter_base.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets-relwithdebinfo.cmake:
+.qtcreator/cmake-helper/package-manager.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map:
 
-.qtcreator/cmake-helper/package-manager.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginConfig.cmake:
-
 .qtcreator/cmake-helper/maintenance_tool_provider.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qexceptionhandling.h:
+
+.qtcreator/cmake-helper/qtcreator-project.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessAliasTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreglobal.h:
 
-.qtcreator/cmake-helper/qtcreator-project.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfigVersionImpl.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20memory.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargets-relwithdebinfo.cmake:
 
@@ -2416,11 +3447,453 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6Networ
 
 CMakeFiles/3.30.5/CMakeSystem.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckLibraryExists.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbasicatomic.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets-relwithdebinfo.cmake:
+
+appjournal_autogen/moc_predefs.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfig.cmake:
+
+C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.cpp:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtresource.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatastream.h:
+
+C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qanystringview.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Documents/school/projj/journal/main.cpp:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhashfunctions.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QObject:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtextstream.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobal.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QString:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfigVersion.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringlist.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobalstatic.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtimezone.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qflags.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfigVersion.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20type_traits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeVersionlessAliasTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydatapointer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalgorithms.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydata.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydataops.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6Quick3DXrpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qassert.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic_cxx11.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbindingstorage.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompilerdetection.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2TargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qchar.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsSynchronizerpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversion.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerfwd.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlatin1stringview.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/filesystem:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionaltools_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersionImpl.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionpointer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qgenericatomic.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlist.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevicebase.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterator.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmalloc.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnamespace.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttranslation.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qoverload.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpair.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstdlibdetection.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstring.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringalgorithms.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringfwd.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringmatcher.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringtokenizer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringview.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qswap.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentDependencies.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsystemdetection.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtclasshelpermacros.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversiontagging.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlVersionlessAliasTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtformat_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindThreads.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmetamacros.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtnoop.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtpreprocessorsupport.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypes.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qutf8stringview.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake:
 
@@ -2428,65 +3901,29 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmllist.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersion.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/codecvt:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentDependencies.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeConfigVersion.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Config.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake:
 
@@ -2500,29 +3937,29 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginTargetsPrecheck.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeConfigVersion.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/Qt6TargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagehelperspluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargetsPrecheck.cmake:
 
@@ -2534,51 +3971,23 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlTo
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginAdditionalTargetInfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypeinfo.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsmanagedvalue.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcoreexports.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlVersionlessAliasTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginConfig.cmake:
 
@@ -2592,39 +4001,27 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainertools_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qspan.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsPlatformpluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomBuildToolHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake:
 
@@ -2632,13 +4029,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/windows/app.exe.manifest.in:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomExternalReferenceHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginTargetsPrecheck.cmake:
 
@@ -2648,23 +4043,29 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlTo
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsSynchronizerpluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qspan.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsPlatformpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in:
 
@@ -2672,23 +4073,51 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPlugin
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomRelationshipHelpers.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersionImpl.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfigVersion.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -2704,21 +4133,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qchar.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20utility.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentVersionlessAliasTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20utility.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
 
@@ -2732,15 +4151,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDi
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmldebug.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargetsPrecheck.cmake:
 
@@ -2754,11 +4167,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPlugin
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginAdditionalTargetInfo.cmake:
 
@@ -2768,9 +4181,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6Core
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessAliasTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake:
 
@@ -2800,35 +4213,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsvalue.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsysinfo.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconstructormacros.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfigVersionImpl.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23type_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h:
 
@@ -2843,8 +4234,6 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
 
@@ -2864,15 +4253,7 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qgenericatomic.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake:
 
@@ -2886,23 +4267,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEven
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtaggedpointer.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginTargets.cmake:
 
@@ -2914,27 +4285,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPlugin
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qvarlengtharray.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtGui/qguiapplication.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargetsPrecheck.cmake:
 
@@ -2944,8 +4305,6 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
@@ -2954,15 +4313,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIn
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbindingstorage.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Targets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake:
 
@@ -2970,19 +4327,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreen
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptConfigVersionImpl.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginAdditionalTargetInfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginAdditionalTargetInfo.cmake:
 
@@ -2994,17 +4345,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPl
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake:
+
+appjournal_autogen/EWIEGA46WW/moc_journalmanager.cpp:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargetsPrecheck.cmake:
 
@@ -3012,43 +4363,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNI
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpair.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/filesystem:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake:
 
@@ -3058,13 +4381,21 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickPlu
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2AdditionalTargetInfo.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Config.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersion.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2ConfigVersionImpl.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake:
 
@@ -3074,23 +4405,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiTo
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateAdditionalTargetInfo.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2Dependencies.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsPlatformpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2TargetsPrecheck.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompilerdetection.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdeadlinetimer.h:
 
@@ -3100,21 +4425,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6Networ
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringbuilder.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargets-relwithdebinfo.cmake:
 
@@ -3122,45 +4437,21 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNI
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargetsPrecheck.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayview.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtnoop.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingAdditionalTargetInfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h:
 
@@ -3174,15 +4465,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessAliasTargets.cmake:
 
@@ -3194,25 +4487,19 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsPlatformpluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsPlatformpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitImplpluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginAdditionalTargetInfo.cmake:
 
@@ -3222,19 +4509,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloade
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginAdditionalTargetInfo.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20algorithm.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsStyleKitpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsSynchronizerpluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlengine.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsSynchronizerpluginConfig.cmake:
 
@@ -3244,19 +4527,19 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginDependencies.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginTargets-relwithdebinfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderPrivatepluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginConfig.cmake:
 
@@ -3264,15 +4547,7 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydataops.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6Quick3DXrpluginAdditionalTargetInfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6Quick3DXrpluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qtqmlexports.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargetsPrecheck.cmake:
 
@@ -3290,77 +4565,51 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnamespace.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetwork-config.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetwork-config.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcomparehelpers.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlmoduleregistration.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlmoduleregistration.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dassetutilspluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsDependencies.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Dependencies.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6effectspluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearraylist.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargets-relwithdebinfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargets-relwithdebinfo.cmake:
 
@@ -3368,15 +4617,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobalstatic.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringlist.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h:
 
@@ -3384,9 +4627,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets-relwithdebinfo.cmake:
 
@@ -3396,49 +4639,29 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginConfig.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelineblendtreespluginTargetsPrecheck.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlatin1stringview.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatetime.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcalendar.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmllocalstoragepluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystem.cmake.in:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhash.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhash.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20type_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlpluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginConfig.cmake:
 
@@ -3446,37 +4669,23 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6Qui
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearrayalgorithms.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevice.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargetsPrecheck.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlshapespluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3deffectpluginTargets-relwithdebinfo.cmake:
 
@@ -3498,12 +4707,6 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlTo
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydatapointer.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeVersionlessAliasTargets.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginAdditionalTargetInfo.cmake:
@@ -3518,19 +4721,21 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquicklayoutspluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3styleimplpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagehelperspluginConfig.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagehelperspluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagehelperspluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginConfig.cmake:
 
@@ -3542,11 +4747,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaVersionlessAliasTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalloc.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquickvectorimagepluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalloc.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:
 
@@ -3560,27 +4763,21 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Config.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqml.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Targets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2TargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfloat16.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtyperevision.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlProfilerServiceFactoryPluginTargets.cmake:
 
@@ -3610,19 +4807,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsnumbercoercion.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelperspluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticleeffectspluginTargetsPrecheck.cmake:
 
@@ -3636,8 +4825,6 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginAdditionalTargetInfo.cmake:
@@ -3646,21 +4833,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationTargetsPrecheck.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttypetraits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstylepluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3styleimplpluginAdditionalTargetInfo.cmake:
 
@@ -3682,91 +4863,73 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginTargets-relwithdebinfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fluentwinui3stylepluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginConfig.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargets.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringconverter.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargets-relwithdebinfo.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestyleimplpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtenvironmentvariables.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginAdditionalTargetInfo.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2imaginestylepluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringalgorithms.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargetsPrecheck.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qoverload.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginConfig.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qminmax.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2nativestylepluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
 
@@ -3776,11 +4939,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qabstracteventd
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2pluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginAdditionalTargetInfo.cmake:
 
@@ -3790,25 +4951,51 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstyleimplpluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginAdditionalTargetInfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargetsPrecheck.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstyleimplpluginTargetsPrecheck.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbytearray.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2windowsstylepluginTargetsPrecheck.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginAdditionalTargetInfo.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtcore-config.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginConfig.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmldebug.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickshapesdesignhelperspluginTargetsPrecheck.cmake:
 
@@ -3822,6 +5009,14 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlengine.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets-relwithdebinfo.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfigExtras.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioAdditionalTargetInfo.cmake:
@@ -3834,7 +5029,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaConfig.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets-relwithdebinfo.cmake:
 
@@ -3842,15 +5041,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickProf
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QTcpServerConnectionFactoryPluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qatomic_cxx11.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginAdditionalTargetInfo.cmake:
 
@@ -3858,43 +5057,41 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets-relwithdebinfo.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnativeinterface.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qhashfunctions.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QDebugMessageServiceFactoryPluginTargets-relwithdebinfo.cmake:
+
+.qt/rcc/qrc_appjournal_raw_qml_0.cpp:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QLocalClientConnectionFactoryPluginConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginAdditionalTargetInfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersion.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersion.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargets-relwithdebinfo.cmake:
 
@@ -3904,19 +5101,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6Qui
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginAdditionalTargetInfo.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginConfig.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlDebuggerServiceFactoryPluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qnumeric.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginConfig.cmake:
 
@@ -3942,11 +5137,7 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlNative
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugConnectorFactoryPluginTargetsPrecheck.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetasequence.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginAdditionalTargetInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlNativeDebugServiceFactoryPluginConfig.cmake:
 
@@ -3964,29 +5155,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPrevie
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qconfig.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlProperties.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateTargetsPrecheck.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlProperties.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuick3DProfilerAdapterFactoryPluginTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateTargetsPrecheck.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEventReplayServiceFactoryPluginAdditionalTargetInfo.cmake:
 
@@ -3994,11 +5173,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEven
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEventReplayServiceFactoryPluginTargets-relwithdebinfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEventReplayServiceFactoryPluginTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickEventReplayServiceFactoryPluginTargets.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginConfig.cmake:
 
@@ -4020,19 +5199,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfigVersionImpl.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerfwd.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversion.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlPublicCMakeHelpers.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkglobal.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlTargets-relwithdebinfo.cmake:
 
@@ -4042,23 +5211,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemp
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateConfigVersion.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q17memory.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtpreprocessorsupport.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateTargets-relwithdebinfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateVersionlessAliasTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfigVersion.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h:
 
@@ -4066,23 +5221,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationVersionlessAliasTargets.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfigmacros.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversiontagging.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaAdditionalTargetInfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfigVersion.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfigVersion.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfigVersionImpl.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaDependencies.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qurl.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaDependencies.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake:
 
@@ -4090,21 +5237,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlM
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfig.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfigVersion.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20functional.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsDependencies.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsDependencies.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsVersionlessAliasTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h:
 
@@ -4138,45 +5279,43 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickCon
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargetsPrecheck.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringtokenizer.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickVersionlessAliasTargets.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversionnumber.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsAdditionalTargetInfo.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qversionnumber.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2AdditionalTargetInfo.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfigVersionImpl.cmake:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2ConfigVersionImpl.cmake:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2Targets-relwithdebinfo.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickControls2VersionlessAliasTargets.cmake:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qeventloop.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickTemplates2VersionlessAliasTargets.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6SvgToQmlMacros.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeAdditionalTargetInfo.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiodevicebase.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeConfig.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeConfigVersionImpl.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeDependencies.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargets-relwithdebinfo.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargets-relwithdebinfo.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/lib/cmake/Qt6TaskTree/Qt6TaskTreeTargets.cmake:
 
@@ -4184,77 +5323,21 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/bin/cmake.exe:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qtqml-config.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_fwd.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeMinGWFindMake.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetacontainer.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtversionchecks.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckLibraryExists.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcompare.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlocale.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake:
 
@@ -4262,45 +5345,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compil
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontiguouscache.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlpropertyvaluesource.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindThreads.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtformat_impl.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopeguard.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake:
 
@@ -4308,163 +5357,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20memory.h:
-
-appjournal_autogen/mocs_compilation.cpp:
-
-appjournal_qmltyperegistrations.cpp:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20bit.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20iterator.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23utility.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qalgorithms.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qanystringview.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qarraydata.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qassert.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdebug.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qbasicatomic.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontainerinfo.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdarwinhelpers.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatastream.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtresource.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qexceptionhandling.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtimezone.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qflags.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qforeach.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionaltools_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfunctionpointer.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qglobal.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtextstream.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterator.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlist.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qvariant.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlogging.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmalloc.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmap.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmath.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetaobject.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetatype.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobject.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qttranslation.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qobjectdefs.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpointer.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qprocessordetection.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qrefcount.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qscopedpointer.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qset.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qshareddata.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qshareddata_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer_impl.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstdlibdetection.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstring.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringfwd.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringmatcher.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qstringview.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qswap.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsystemdetection.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtclasshelpermacros.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtconfiginclude.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmetamacros.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtypes.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qutf8stringview.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qxptype_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qyieldcpu.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkexports.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsprimitivevalue.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlparserstatus.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlprivate.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQmlIntegration/qqmlintegration.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm:
 
@@ -4522,13 +5417,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h:
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h:
 
@@ -4544,21 +5439,17 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
 
@@ -4568,33 +5459,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h:
 
@@ -4605,12 +5474,6 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set:
 
@@ -4632,17 +5495,9 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits:
-
-.qt/rcc/qrc_appjournal_raw_qml_0.cpp:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant:
 
@@ -4652,21 +5507,11 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
 
@@ -4680,15 +5525,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlparserstatus.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h:
 
@@ -4702,19 +5547,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdebug.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h:
 
@@ -4727,6 +5566,98 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h:
+
+appjournal_autogen/mocs_compilation.cpp:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmocconstants.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qtmochelpers.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QDir:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h:
+
+appjournal_qmltyperegistrations.cpp:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q20iterator.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/q23utility.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcontiguouscache.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdatetime.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qiterable_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qlocale.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmap.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetaobject.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmetasequence.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qpointer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qset.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qshareddata.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qshareddata_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qsharedpointer_impl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qurl.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qvariant.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkexports.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtNetwork/qtnetworkglobal.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsnumbercoercion.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsprimitivevalue.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qjsvalue.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqml.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmllist.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlprivate.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qqmlpropertyvaluesource.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qtqml-config.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/qtqmlexports.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQmlIntegration/qqmlintegration.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set:
 
 .qt/rcc/qrc_qmake_journal.cpp:
 
@@ -4742,8 +5673,6 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdir.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qdirlisting.h:
 
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfile.h:
-
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfiledevice.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfileinfo.h:
@@ -4751,6 +5680,8 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qfileinfo.h:
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_dir.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_fwd.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_ops.h:
 
@@ -4778,11 +5709,15 @@ C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/
 
 C:/Users/Nurmid/Downloads/Apps/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h:
 
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QDebug:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QFile:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/QTextStream:
+
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcoreapplication_platform.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qcoreevent.h:
-
-C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qeventloop.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtCore/qmargins.h:
 
@@ -4803,3 +5738,13 @@ C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtGui/qtguiglobal.h:
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtGui/qwindowdefs_win.h:
 
 C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/QQmlApplicationEngine:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQml/QQmlContext:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/QQuickStyle:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qquickstyle.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qtquickcontrols2exports.h:
+
+C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/include/QtQuickControls2/qtquickcontrols2global.h:

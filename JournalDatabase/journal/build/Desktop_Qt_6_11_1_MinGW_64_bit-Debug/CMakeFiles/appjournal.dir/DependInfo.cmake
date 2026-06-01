@@ -15,6 +15,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_journal.cpp" "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_journal.cpp.obj" "gcc" "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_journal.cpp.obj.d"
   "C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp" "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj" "gcc" "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj.d"
   "C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp" "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj" "gcc" "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj.d"
+  "C:/Users/Nurmid/Documents/school/projj/journal/journalmanager.cpp" "CMakeFiles/appjournal.dir/journalmanager.cpp.obj" "gcc" "CMakeFiles/appjournal.dir/journalmanager.cpp.obj.d"
   "C:/Users/Nurmid/Documents/school/projj/journal/main.cpp" "CMakeFiles/appjournal.dir/main.cpp.obj" "gcc" "CMakeFiles/appjournal.dir/main.cpp.obj.d"
   )
 

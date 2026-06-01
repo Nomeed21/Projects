@@ -74,9 +74,10 @@ appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mi
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6core_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6qml_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6network_metatypes.json
-appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6gui_metatypes.json
+appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json
 appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6opengl_metatypes.json
+appjournal_qmltyperegistrations.cpp: C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/metatypes/qt6quickcontrols2_metatypes.json
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\Nurmid\Documents\school\projj\journal\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic QML type registration for target appjournal"
 	call .qt\bin\qt_setup_tool_path.bat C:/Users/Nurmid/Downloads/Apps/Qt/6.11.1/mingw_64/bin/qmltyperegistrar.exe --generate-qmltypes=C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/journal/appjournal.qmltypes --import-name=journal --major-version=254 --minor-version=254 @C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/qmltypes/appjournal_foreign_types.txt -o C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/appjournal_qmltyperegistrations.cpp C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/meta_types/qt6appjournal_metatypes.json
 	C:\Users\Nurmid\Downloads\Apps\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/Nurmid/Documents/school/projj/journal/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/qmltypes

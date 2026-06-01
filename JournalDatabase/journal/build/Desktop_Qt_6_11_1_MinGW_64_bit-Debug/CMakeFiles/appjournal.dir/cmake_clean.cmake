@@ -19,6 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_Main_qml.cpp.obj.d"
   "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj"
   "CMakeFiles/appjournal.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.rcc/qmlcache/appjournal_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appjournal.dir/journalmanager.cpp.obj"
+  "CMakeFiles/appjournal.dir/journalmanager.cpp.obj.d"
   "CMakeFiles/appjournal.dir/main.cpp.obj"
   "CMakeFiles/appjournal.dir/main.cpp.obj.d"
   "appjournal.exe"
