@@ -1,3 +1,0 @@
-C:\Users\Nurmid\Downloads\Apps\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appjournal.dir/objects.a
-C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appjournal.dir/objects.a @CMakeFiles\appjournal.dir\objects1.rsp
-C:\Users\Nurmid\Downloads\Apps\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appjournal.dir/objects.a -Wl,--no-whole-archive -o appjournal.exe -Wl,--out-implib,libappjournal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appjournal.dir\linkLibs.rsp

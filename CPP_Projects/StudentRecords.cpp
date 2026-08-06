@@ -35,7 +35,7 @@ class MyClass{
     int locate(string nm);
     void display();
     void updateRecord(string nm);
-    void search(string nm);
+    void searchRecord(string nm);
     int locatePos(string nm);
     void save();
     void retrieve();
@@ -46,7 +46,7 @@ class MyClass{
 int main(){
     MyClass person;
     person.retrieve();
-    while (1){
+    while (true){
         Records data;
         switch(person.menu()){
             case 1:
@@ -81,14 +81,26 @@ int main(){
             break;
 
             case 5:
+            cout << "Enter Name: ";
+            getline(cin, data.name);
+            person.searchRecord(data.name);
+            break; 
+
+            case 6:
             person.save();
             exit(0);
+
+            default:
+            cout << "Invalid choice!!" << endl;
+            system("pause");
 
         }
     }
 
     return 0;
 }
+
+
 
 int MyClass::menu(){
     system("cls");
@@ -98,7 +110,8 @@ int MyClass::menu(){
         << "2. Del Record" << endl
         << "3. Update Record" << endl
         << "4. Display" << endl
-        << "5. Exit & Save" << endl
+        << "5. Search Record" << endl
+        << "6. Exit & Save" << endl
         << "Select number: ";
         cin >> choice;
         cin.ignore();
@@ -141,6 +154,7 @@ void MyClass::addRecord(Records data, bool isNew){
                 }
                 student[p] = data;
                 cout <<"Saved successfully" << endl;
+                save();
                 system("pause");
                 system("cls");
             }
@@ -207,31 +221,70 @@ void MyClass::updateRecord(string nm){
                     << "[1] Quiz 1" << endl
                     << "[2] Quiz 2" << endl
                     << "[3] Quiz 3" << endl
+                    << "[4] Exit" << endl
                     << "Enter your choice: ";
                 cin >> choice;
                 
-                cout << "Enter new grade: ";
-                cin >> newGrade;
-                cin.ignore();
+                
 
                 switch(choice){
                     case 1:
+                        cout << "Enter new grade: ";
+                        cin >> newGrade;
+                        cin.ignore();
                         student[index].quiz1 = newGrade;
                         break;
                     case 2:
+                        cout << "Enter new grade: ";
+                        cin >> newGrade;
+                        cin.ignore();
                         student[index].quiz2 = newGrade;
                         break;
                     case 3:
+                        cout << "Enter new grade: ";
+                        cin >> newGrade;
+                        cin.ignore();
                         student[index].quiz3 = newGrade;
                         break;
                     case 4:
+                        save();
                         return;
+                        break;
+                    default:
+                        cout << "Invalid choice!!" << endl;
+                        system("pause");
                 }
              }
         }
     }
 }
 
+void MyClass::searchRecord(string nm){
+    if(isEmpty()){
+        cout << "Record Empty..." << endl;
+        system("pause");
+    }
+    else{
+        int index = locate(nm);
+        if(index == -1){
+            cout << "Name not found!!" << endl;
+            system("pause");
+        }
+        else{
+            float average  = (student[index].quiz1 + student[index].quiz2 + student[index].quiz3) / 3;
+            system("cls");
+            cout << "Name: " << right << setw(5) << student[index].name << endl
+                << "Quiz 1: "<< right << setw(4) << student[index].quiz1 << endl 
+                << "Quiz 2: " << right << setw(4) << student[index].quiz2 << endl 
+                << "Quiz 3: " << right << setw(4) << student[index].quiz3 << endl 
+                << "Average: " << right << setw(4) << fixed << setprecision(2) << average << endl
+                << (average>=75? "Passed":"Failed!!") << endl;
+            
+            system("pause");
+
+        }
+    }
+}
 void MyClass::save(){
 
     ofstream fp("Records.csv");
