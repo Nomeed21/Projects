@@ -1,6 +1,0 @@
-module journal
-typeinfo appjournal.qmltypes
-prefer :/qt/qml/journal/
-Main 254.0 Main.qml
-depends QtQuick
-
