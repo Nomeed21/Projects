@@ -6,14 +6,27 @@
 #define MAX 5
 using namespace std;
 
+void pause(){
+    #ifdef _WIN32
+        system("pause");
+    #else 
+        cout << "Press any key to continue...";
+        cin.ignore();
+    #endif
+}
+void clearScreen(){
+    #ifdef _WIN32
+        system("cls");
+    
+    #else
+        cout << "\033[2J\033[H";
+    #endif
+}
 struct Records{
     string name;
     int quiz1, quiz2, quiz3;
 
-    Records(){
-        name = "";
-        quiz1, quiz2, quiz3 = 0;
-    }
+    Records(): name(""), quiz1(0), quiz2(0), quiz3(0){} 
     Records(string nm, int q1, int q2, int q3){
         name = nm;
         quiz1 = q1;
@@ -31,12 +44,12 @@ class MyClass{
     public:
     MyClass():last(-1){};
     void addRecord(Records data, bool isNew = true);
-    void delRecord(string nm, bool isCorrect = true);
-    int locate(string nm);
+    void delRecord(const string &nm, bool isCorrect = true);
+    int locate(const string &nm);
     void display();
-    void updateRecord(string nm);
-    void searchRecord(string nm);
-    int locatePos(string nm);
+    void updateRecord(const string &nm);
+    void searchRecord(const string &nm);
+    int locatePos(const string &nm);
     void save();
     void retrieve();
     int menu();
@@ -46,7 +59,8 @@ class MyClass{
 int main(){
     MyClass person;
     person.retrieve();
-    while (true){
+    bool running = true;
+    while (running){
         Records data;
         switch(person.menu()){
             case 1:
@@ -61,19 +75,22 @@ int main(){
                 cin.ignore();
 
                 person.addRecord(data);
+                person.save();
                 break;
+                
 
             case 2:
-            cout << "Enter Name: ";
-            cin >> data.name;
-
-            person.delRecord(data.name);
+                cout << "Enter Name: ";
+                getline(cin, data.name);
+                person.delRecord(data.name);
+                person.save();
             break; 
 
             case 3:
             cout << "Enter Name: ";
-            cin >> data.name;
+            getline(cin, data.name);
             person.updateRecord(data.name);
+            person.save();
             break;
 
             case 4:
@@ -87,12 +104,12 @@ int main(){
             break; 
 
             case 6:
-            person.save();
+            running = false;
             exit(0);
 
             default:
             cout << "Invalid choice!!" << endl;
-            system("pause");
+            pause();
 
         }
     }
@@ -103,7 +120,7 @@ int main(){
 
 
 int MyClass::menu(){
-    system("cls");
+    clearScreen();
     int choice;
     cout << "MENU" << endl   
         << "1. Add Record" << endl
@@ -121,13 +138,13 @@ int MyClass::menu(){
 void MyClass::addRecord(Records data, bool isNew){
     if (isFull()){
         cout<<"Record Full!" << endl;
-        system("pause");
+        pause();
     }
     else{
-        string choice;
+        char choice;
         if(locate(data.name) == -1){
             if(isNew){
-                system("cls");
+                clearScreen();
                 cout << left << setw(10) << "Name: "
                     << right << setw(10) << data.name << endl
                     << left << setw(10) << "Quiz 1: " << right << setw(10) << data.quiz1 << endl
@@ -135,47 +152,40 @@ void MyClass::addRecord(Records data, bool isNew){
                     << left << setw(10) << "Quiz 3: " << right << setw(10) << data.quiz3 << endl;
 
             
-                cout << "confirm Saving?";
-                getline(cin, choice);
+                cout << "confirm Saving?: ";
+                cin >> choice;
+                cin.ignore();
             }
-            else{
+            if ((choice == 'Y' || choice == 'y') || !isNew){
                 last++;
-                int p = locatePos(data.name);
+                int p = locatePos(data.name)-1;
                 for (int i = last-1 ; i >= p; i--){
                     student[i+1] = student[i];
                 }
                 student[p] = data;
-            }
-            if ((choice == "Yes" || choice == "yes" || choice == "ye" || choice == "y")){
-                last++;
-                int p = locatePos(data.name);
-                for (int i = last-1 ; i >= p; i--){
-                    student[i+1] = student[i];
+                if (isNew){
+                    cout <<"Saved successfully" << endl;
+                    pause();
+                    clearScreen();
                 }
-                student[p] = data;
-                cout <<"Saved successfully" << endl;
-                save();
-                system("pause");
-                system("cls");
             }
         
         }
         else{
             cout << "Duplicate found" << endl;
-            system("pause");
+            pause();
         }
     }
 }
-
-void MyClass::delRecord(string nm, bool isCorrect){
+void MyClass::delRecord(const string &nm, bool isCorrect){
     if (isEmpty()){
         cout << "Record Empty" <<endl;
-        system("pause");
+        pause();
     }
     else{
         if (locate(nm) == -1){
             cout << "Name not found"<< endl;
-            system("pause");
+            pause();
         }
         else {
             int p = locate(nm);
@@ -186,29 +196,28 @@ void MyClass::delRecord(string nm, bool isCorrect){
 
             if (isCorrect){
                 cout << nm << " Successfully deleted" << endl;
-                system("pause");
-                system("cls");
+                pause();
+                clearScreen();
             }
             
         }
     }
 }
-
-void MyClass::updateRecord(string nm){
+void MyClass::updateRecord(const string &nm){
     if(isEmpty()){
         cout << "Record is empty..." << endl;
-        system("pause");
+        pause();
     }
     else{
         int index = locate(nm);
         if (index == -1){
             cout << "Name not found" << endl;
-            system("pause");
+            pause();
         }
         else{
             while(true){
                 int choice, newGrade;
-                system("cls");
+                clearScreen();
                 
                 float average = (float)(student[index].quiz1 + student[index].quiz2 + student[index].quiz3) / 3;
                 cout << "Name: " << right << setw(10) << student[index].name << endl 
@@ -252,27 +261,26 @@ void MyClass::updateRecord(string nm){
                         break;
                     default:
                         cout << "Invalid choice!!" << endl;
-                        system("pause");
+                        pause();
                 }
              }
         }
     }
 }
-
-void MyClass::searchRecord(string nm){
+void MyClass::searchRecord(const string &nm){
     if(isEmpty()){
         cout << "Record Empty..." << endl;
-        system("pause");
+        pause();
     }
     else{
         int index = locate(nm);
         if(index == -1){
             cout << "Name not found!!" << endl;
-            system("pause");
+            pause();
         }
         else{
-            float average  = (student[index].quiz1 + student[index].quiz2 + student[index].quiz3) / 3;
-            system("cls");
+            float average  = (float)(student[index].quiz1 + student[index].quiz2 + student[index].quiz3) / 3;
+            clearScreen();
             cout << "Name: " << right << setw(5) << student[index].name << endl
                 << "Quiz 1: "<< right << setw(4) << student[index].quiz1 << endl 
                 << "Quiz 2: " << right << setw(4) << student[index].quiz2 << endl 
@@ -280,11 +288,12 @@ void MyClass::searchRecord(string nm){
                 << "Average: " << right << setw(4) << fixed << setprecision(2) << average << endl
                 << (average>=75? "Passed":"Failed!!") << endl;
             
-            system("pause");
+            pause();
 
         }
     }
 }
+
 void MyClass::save(){
 
     ofstream fp("Records.csv");
@@ -297,11 +306,16 @@ void MyClass::save(){
             fp << student[i].name << "," << student[i].quiz1 << "," << student[i].quiz2 << "," << student[i].quiz3 << endl;
         }
     }
+    fp.close();
 }
 void MyClass::retrieve(){
     ifstream fp("Records.csv");
     string lineStr;
 
+    if(fp.fail()){
+        cout << "Error Finding File" << endl;
+        pause();
+    }
     while (getline(fp, lineStr)){
         stringstream ss(lineStr);
 
@@ -328,18 +342,17 @@ bool MyClass::isFull(){
 bool MyClass::isEmpty(){
     return last == -1;
 }
-int MyClass::locate(string nm){
+int MyClass::locate(const string &nm){
     for (int i = 0; i <= last; i++){
         if (student[i].name == nm) return i;
     }
     return -1;
 }
-int MyClass::locatePos(string nm){
-    int i;
-    for(i = 0; i<=last; i++){
+int MyClass::locatePos(const string &nm){
+    for(int i  = 0; i<=last; i++){
         if(nm < student[i].name) return i;
     }
-    return i-1;
+    return last + 1;
 }
 
 
@@ -347,7 +360,7 @@ int MyClass::locatePos(string nm){
 void MyClass::display(){
     if (isEmpty()){
         cout<< "Record is Empty..." << endl;
-        system("pause");
+        pause();
     }   
     else{
         cout << left << setw(5) << "No." << " "
@@ -367,7 +380,7 @@ void MyClass::display(){
             << right << setw(8) <<fixed << setprecision(2)<< ave << " "
             << right << setw(8) << (ave >= 75? "Passed" : "Failed") << endl;;
         }
-        system("pause"); 
-        system("cls");
+        pause(); 
+        clearScreen();
     }
 }
