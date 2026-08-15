@@ -35,6 +35,10 @@
   <div class="sub">Play the note shown on your bass — I'll listen through the mic.</div>
 
   <div class="settings">
+    <select id="quizTypeSelect">
+      <option value="notes" selected>Note identification</option>
+      <option value="intervals">Intervals</option>
+    </select>
     <select id="rangeSelect">
       <option value="open">Open strings only (E A D G)</option>
       <option value="firstpos" selected>1st position (frets 0-4)</option>
@@ -44,6 +48,9 @@
       <option value="name">Note name only</option>
       <option value="stringfret">String + fret</option>
     </select>
+  </div>
+  <div id="refRow" class="row hidden" style="margin-top:-10px; margin-bottom:16px;">
+    <button id="playRefBtn">Play reference note</button>
   </div>
 
   <div class="card">
@@ -110,6 +117,40 @@ const scoreStreak = document.getElementById('scoreStreak');
 
 let correct = 0, total = 0, streak = 0;
 
+const INTERVALS = [
+  { name: "Minor 2nd", semitones: 1 },
+  { name: "Major 2nd", semitones: 2 },
+  { name: "Minor 3rd", semitones: 3 },
+  { name: "Major 3rd", semitones: 4 },
+  { name: "Perfect 4th", semitones: 5 },
+  { name: "Tritone", semitones: 6 },
+  { name: "Perfect 5th", semitones: 7 },
+  { name: "Minor 6th", semitones: 8 },
+  { name: "Major 6th", semitones: 9 },
+  { name: "Minor 7th", semitones: 10 },
+  { name: "Major 7th", semitones: 11 },
+  { name: "Octave", semitones: 12 }
+];
+let currentRootMidi = null;
+
+function quizType() { return document.getElementById('quizTypeSelect').value; }
+
+function playReferenceTone(midi) {
+  if (!audioCtx) return;
+  const freq = midiToFreq(midi);
+  const osc = audioCtx.createOscillator();
+  const gain = audioCtx.createGain();
+  osc.type = 'sine';
+  osc.frequency.value = freq;
+  gain.gain.setValueAtTime(0.0001, audioCtx.currentTime);
+  gain.gain.exponentialRampToValueAtTime(0.2, audioCtx.currentTime + 0.02);
+  gain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + 0.9);
+  osc.connect(gain);
+  gain.connect(audioCtx.destination);
+  osc.start();
+  osc.stop(audioCtx.currentTime + 0.9);
+}
+
 function getFretRange() {
   const v = rangeSelect.value;
   if (v === 'open') return [0];
@@ -118,18 +159,43 @@ function getFretRange() {
 }
 
 function pickTarget() {
-  const frets = getFretRange();
-  const s = STRINGS[Math.floor(Math.random() * STRINGS.length)];
-  const f = frets[Math.floor(Math.random() * frets.length)];
-  const midi = s.openMidi + f;
-  currentTarget = { string: s.name, fret: f, midi };
-  const nn = midiToNoteName(midi);
-  if (modeSelect.value === 'stringfret') {
-    targetDisplay.textContent = s.name + '-string, fret ' + f;
-    targetHint.textContent = 'Play this note — target: ' + nn.label;
+  const refRow = document.getElementById('refRow');
+  if (quizType() === 'intervals') {
+    refRow.classList.remove('hidden');
+    const frets = getFretRange();
+    const minMidi = Math.min(...STRINGS.map(s => s.openMidi));
+    const maxMidi = Math.max(...STRINGS.map(s => s.openMidi)) + Math.max(...frets) + 4;
+    const interval = INTERVALS[Math.floor(Math.random() * INTERVALS.length)];
+    let rootMidi, targetMidi, up;
+    let tries = 0;
+    do {
+      const s = STRINGS[Math.floor(Math.random() * STRINGS.length)];
+      const f = frets[Math.floor(Math.random() * frets.length)];
+      rootMidi = s.openMidi + f;
+      up = Math.random() < 0.5;
+      targetMidi = up ? rootMidi + interval.semitones : rootMidi - interval.semitones;
+      tries++;
+    } while ((targetMidi < minMidi - 2 || targetMidi > maxMidi) && tries < 30);
+    currentRootMidi = rootMidi;
+    currentTarget = { midi: targetMidi };
+    const rootLabel = midiToNoteName(rootMidi).label;
+    targetDisplay.textContent = interval.name;
+    targetHint.textContent = (up ? 'Above' : 'Below') + ' ' + rootLabel + ' — tap "Play reference" to hear the root';
   } else {
-    targetDisplay.textContent = nn.label;
-    targetHint.textContent = 'Find and play this note on your bass';
+    refRow.classList.add('hidden');
+    const frets = getFretRange();
+    const s = STRINGS[Math.floor(Math.random() * STRINGS.length)];
+    const f = frets[Math.floor(Math.random() * frets.length)];
+    const midi = s.openMidi + f;
+    currentTarget = { string: s.name, fret: f, midi };
+    const nn = midiToNoteName(midi);
+    if (modeSelect.value === 'stringfret') {
+      targetDisplay.textContent = s.name + '-string, fret ' + f;
+      targetHint.textContent = 'Play this note — target: ' + nn.label;
+    } else {
+      targetDisplay.textContent = nn.label;
+      targetHint.textContent = 'Find and play this note on your bass';
+    }
   }
   feedbackEl.textContent = '';
   detectedEl.textContent = '';
@@ -285,6 +351,13 @@ startBtn.addEventListener('click', () => {
 skipBtn.addEventListener('click', skipNote);
 rangeSelect.addEventListener('change', () => { if (listening) pickTarget(); });
 modeSelect.addEventListener('change', () => { if (listening) pickTarget(); });
+document.getElementById('quizTypeSelect').addEventListener('change', () => {
+  modeSelect.style.visibility = quizType() === 'intervals' ? 'hidden' : 'visible';
+  if (listening) pickTarget();
+});
+document.getElementById('playRefBtn').addEventListener('click', () => {
+  if (currentRootMidi !== null) playReferenceTone(currentRootMidi);
+});
 </script>
 </body>
 </html>
