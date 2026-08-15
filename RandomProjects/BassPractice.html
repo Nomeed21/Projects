@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bass Note Quiz</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; background:#101418; color:#eee; display:flex; justify-content:center; padding:24px; }
+  .app { width:420px; text-align:center; }
+  h1 { font-size:20px; font-weight:600; margin-bottom:4px; }
+  .sub { color:#9aa4ad; font-size:13px; margin-bottom:20px; }
+  .card { background:#1b2128; border-radius:14px; padding:24px; margin-bottom:16px; }
+  .target { font-size:64px; font-weight:700; letter-spacing:2px; }
+  .targetHint { color:#9aa4ad; font-size:13px; margin-top:4px; }
+  .detected { font-size:15px; margin-top:14px; min-height:20px; color:#7fd88f; }
+  .status { color:#9aa4ad; font-size:13px; margin-top:6px; }
+  .meterWrap { height:6px; background:#2a323b; border-radius:3px; margin-top:16px; overflow:hidden; }
+  .meterFill { height:100%; width:50%; background:#4a90e2; transition:width .05s linear, background .1s; }
+  .row { display:flex; gap:10px; justify-content:center; margin-top:16px; flex-wrap:wrap; }
+  button { background:#2a323b; color:#eee; border:none; padding:10px 18px; border-radius:8px; font-size:14px; cursor:pointer; }
+  button:hover { background:#354049; }
+  button.primary { background:#4a90e2; color:#fff; }
+  button.primary:hover { background:#5b9ce8; }
+  .stats { display:flex; justify-content:space-between; font-size:13px; color:#9aa4ad; margin-top:10px; }
+  .stats b { color:#eee; font-size:16px; display:block; }
+  select { background:#2a323b; color:#eee; border:none; padding:8px 10px; border-radius:8px; font-size:13px; }
+  .settings { display:flex; gap:8px; justify-content:center; margin-bottom:16px; flex-wrap:wrap; }
+  .feedback { font-size:14px; font-weight:600; min-height:22px; margin-top:8px; }
+  .flat { color:#e2a34a; } .sharp { color:#e2a34a; } .inTune { color:#5fd97a; }
+  .hidden { display:none; }
+</style>
+</head>
+<body>
+<div class="app">
+  <h1>Bass note quiz</h1>
+  <div class="sub">Play the note shown on your bass — I'll listen through the mic.</div>
+
+  <div class="settings">
+    <select id="rangeSelect">
+      <option value="open">Open strings only (E A D G)</option>
+      <option value="firstpos" selected>1st position (frets 0-4)</option>
+      <option value="wide">Wider range (frets 0-9)</option>
+    </select>
+    <select id="modeSelect">
+      <option value="name">Note name only</option>
+      <option value="stringfret">String + fret</option>
+    </select>
+  </div>
+
+  <div class="card">
+    <div id="targetDisplay" class="target">—</div>
+    <div id="targetHint" class="targetHint">Press start to begin</div>
+    <div class="meterWrap"><div id="meterFill" class="meterFill"></div></div>
+    <div id="feedback" class="feedback"></div>
+    <div id="detected" class="detected"></div>
+    <div id="status" class="status">Microphone not started</div>
+  </div>
+
+  <div class="row">
+    <button id="startBtn" class="primary">Start listening</button>
+    <button id="skipBtn" class="hidden">Skip note</button>
+  </div>
+
+  <div class="card" style="margin-top:16px;">
+    <div class="stats">
+      <div><b id="scoreCorrect">0</b>Correct</div>
+      <div><b id="scoreTotal">0</b>Attempts</div>
+      <div><b id="scoreStreak">0</b>Streak</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const NOTE_NAMES = ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"];
+const STRINGS = [
+  { name: "E", openMidi: 28 },
+  { name: "A", openMidi: 33 },
+  { name: "D", openMidi: 38 },
+  { name: "G", openMidi: 43 }
+];
+
+function midiToNoteName(midi) {
+  const name = NOTE_NAMES[((midi % 12) + 12) % 12];
+  const octave = Math.floor(midi / 12) - 1;
+  return { name, octave, label: name + octave };
+}
+function midiToFreq(midi) { return 440 * Math.pow(2, (midi - 69) / 12); }
+function freqToMidi(freq) { return 69 + 12 * Math.log2(freq / 440); }
+
+let audioCtx, analyser, mic, dataArray, rafId;
+let listening = false;
+let currentTarget = null;
+let stableCount = 0;
+let lastDetectedMidi = null;
+let awaitingNext = false;
+let centsHistory = [];
+
+const targetDisplay = document.getElementById('targetDisplay');
+const targetHint = document.getElementById('targetHint');
+const detectedEl = document.getElementById('detected');
+const statusEl = document.getElementById('status');
+const meterFill = document.getElementById('meterFill');
+const feedbackEl = document.getElementById('feedback');
+const startBtn = document.getElementById('startBtn');
+const skipBtn = document.getElementById('skipBtn');
+const rangeSelect = document.getElementById('rangeSelect');
+const modeSelect = document.getElementById('modeSelect');
+const scoreCorrect = document.getElementById('scoreCorrect');
+const scoreTotal = document.getElementById('scoreTotal');
+const scoreStreak = document.getElementById('scoreStreak');
+
+let correct = 0, total = 0, streak = 0;
+
+function getFretRange() {
+  const v = rangeSelect.value;
+  if (v === 'open') return [0];
+  if (v === 'firstpos') return [0,1,2,3,4];
+  return [0,1,2,3,4,5,6,7,8,9];
+}
+
+function pickTarget() {
+  const frets = getFretRange();
+  const s = STRINGS[Math.floor(Math.random() * STRINGS.length)];
+  const f = frets[Math.floor(Math.random() * frets.length)];
+  const midi = s.openMidi + f;
+  currentTarget = { string: s.name, fret: f, midi };
+  const nn = midiToNoteName(midi);
+  if (modeSelect.value === 'stringfret') {
+    targetDisplay.textContent = s.name + '-string, fret ' + f;
+    targetHint.textContent = 'Play this note — target: ' + nn.label;
+  } else {
+    targetDisplay.textContent = nn.label;
+    targetHint.textContent = 'Find and play this note on your bass';
+  }
+  feedbackEl.textContent = '';
+  detectedEl.textContent = '';
+  stableCount = 0;
+  awaitingNext = false;
+  centsHistory = [];
+}
+
+// Autocorrelation pitch detection
+function autoCorrelate(buf, sampleRate) {
+  const SIZE = buf.length;
+  let rms = 0;
+  for (let i = 0; i < SIZE; i++) rms += buf[i] * buf[i];
+  rms = Math.sqrt(rms / SIZE);
+  if (rms < 0.01) return -1;
+
+  let r1 = 0, r2 = SIZE - 1;
+  const thres = 0.2;
+  for (let i = 0; i < SIZE / 2; i++) if (Math.abs(buf[i]) < thres) { r1 = i; break; }
+  for (let i = 1; i < SIZE / 2; i++) if (Math.abs(buf[SIZE - i]) < thres) { r2 = SIZE - i; break; }
+  const trimmed = buf.slice(r1, r2);
+  const newSize = trimmed.length;
+
+  const c = new Array(newSize).fill(0);
+  for (let i = 0; i < newSize; i++)
+    for (let j = 0; j < newSize - i; j++)
+      c[i] += trimmed[j] * trimmed[j + i];
+
+  let d = 0;
+  while (d < newSize - 1 && c[d] > c[d + 1]) d++;
+  let maxVal = -1, maxPos = -1;
+  for (let i = d; i < newSize; i++) {
+    if (c[i] > maxVal) { maxVal = c[i]; maxPos = i; }
+  }
+  let T0 = maxPos;
+  if (T0 <= 0) return -1;
+
+  const x1 = c[T0 - 1] || 0, x2 = c[T0], x3 = c[T0 + 1] || 0;
+  const a = (x1 + x3 - 2 * x2) / 2;
+  const b = (x3 - x1) / 2;
+  if (a) T0 = T0 - b / (2 * a);
+
+  return sampleRate / T0;
+}
+
+async function startListening() {
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: false } });
+    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    mic = audioCtx.createMediaStreamSource(stream);
+    analyser = audioCtx.createAnalyser();
+    analyser.fftSize = 8192;
+    mic.connect(analyser);
+    dataArray = new Float32Array(analyser.fftSize);
+    listening = true;
+    statusEl.textContent = 'Listening…';
+    startBtn.textContent = 'Stop';
+    skipBtn.classList.remove('hidden');
+    pickTarget();
+    loop();
+  } catch (e) {
+    statusEl.textContent = 'Microphone access denied or unavailable.';
+  }
+}
+
+function stopListening() {
+  listening = false;
+  if (rafId) cancelAnimationFrame(rafId);
+  if (audioCtx) audioCtx.close();
+  statusEl.textContent = 'Microphone not started';
+  startBtn.textContent = 'Start listening';
+  skipBtn.classList.add('hidden');
+  targetDisplay.textContent = '—';
+  targetHint.textContent = 'Press start to begin';
+  detectedEl.textContent = '';
+  feedbackEl.textContent = '';
+  meterFill.style.width = '50%';
+}
+
+function loop() {
+  if (!listening) return;
+  analyser.getFloatTimeDomainData(dataArray);
+  const freq = autoCorrelate(dataArray, audioCtx.sampleRate);
+
+  if (freq > 30 && freq < 400 && !awaitingNext) {
+    const midiFloat = freqToMidi(freq);
+    const midi = Math.round(midiFloat);
+    let cents = (midiFloat - midi) * 100;
+
+    centsHistory.push(cents);
+    if (centsHistory.length > 6) centsHistory.shift();
+    const sorted = [...centsHistory].sort((a, b) => a - b);
+    const smoothCents = sorted[Math.floor(sorted.length / 2)];
+
+    const nn = midiToNoteName(midi);
+    lastDetectedMidi = midi;
+
+    detectedEl.textContent = 'Hearing: ' + nn.label + '  (' + freq.toFixed(1) + ' Hz)';
+
+    const pct = Math.max(0, Math.min(100, 50 + smoothCents));
+    meterFill.style.width = pct + '%';
+    meterFill.style.background = Math.abs(smoothCents) < 15 ? '#5fd97a' : '#4a90e2';
+
+    if (midi === currentTarget.midi) {
+      if (Math.abs(smoothCents) < 15) {
+        stableCount++;
+        feedbackEl.textContent = 'In tune ✓';
+        feedbackEl.className = 'feedback inTune';
+        if (stableCount > 4) {
+          registerResult(true);
+        }
+      } else {
+        feedbackEl.textContent = smoothCents > 0 ? 'Correct note — slightly sharp' : 'Correct note — slightly flat';
+        feedbackEl.className = 'feedback ' + (smoothCents > 0 ? 'sharp' : 'flat');
+        stableCount = Math.max(0, stableCount - 1);
+      }
+    } else {
+      stableCount = 0;
+      feedbackEl.textContent = '';
+    }
+  } else if (freq <= 30 || freq >= 400) {
+    detectedEl.textContent = '';
+    centsHistory = [];
+  }
+
+  rafId = requestAnimationFrame(loop);
+}
+
+function registerResult(isCorrect) {
+  awaitingNext = true;
+  total++;
+  if (isCorrect) { correct++; streak++; } else { streak = 0; }
+  scoreCorrect.textContent = correct;
+  scoreTotal.textContent = total;
+  scoreStreak.textContent = streak;
+  feedbackEl.textContent = 'Correct! Next note in a moment…';
+  feedbackEl.className = 'feedback inTune';
+  setTimeout(() => { if (listening) pickTarget(); }, 1200);
+}
+
+function skipNote() {
+  if (!listening) return;
+  total++;
+  streak = 0;
+  scoreTotal.textContent = total;
+  scoreStreak.textContent = streak;
+  pickTarget();
+}
+
+startBtn.addEventListener('click', () => {
+  if (listening) stopListening(); else startListening();
+});
+skipBtn.addEventListener('click', skipNote);
+rangeSelect.addEventListener('change', () => { if (listening) pickTarget(); });
+modeSelect.addEventListener('change', () => { if (listening) pickTarget(); });
+</script>
+</body>
+</html>

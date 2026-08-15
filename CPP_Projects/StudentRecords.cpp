@@ -2,6 +2,7 @@
 #include <iomanip>
 #include <fstream>
 #include <sstream>
+#include <limits>
 
 #define MAX 5
 using namespace std;
@@ -66,16 +67,22 @@ int main(){
             case 1:
                 cout << "Enter Name: ";
                 getline(cin, data.name);
-                cout << "Enter quiz 1: " ;
-                cin >> data.quiz1;
-                cout << "Enter quiz 2: ";
-                cin >> data.quiz2;
-                cout << "Enter quiz 3: ";
-                cin >> data.quiz3;
-                cin.ignore();
+                if (person.locate(data.name) > -1){
+                    cout << "Duplicate Found" << endl;
+                    pause();
+                }
+                else{
+                    cout << "Enter quiz 1: " ;
+                    cin >> data.quiz1;
+                    cout << "Enter quiz 2: ";
+                    cin >> data.quiz2;
+                    cout << "Enter quiz 3: ";
+                    cin >> data.quiz3;
+                    cin.ignore();
 
-                person.addRecord(data);
-                person.save();
+                    person.addRecord(data);
+                    person.save();
+                }
                 break;
                 
 
@@ -84,32 +91,33 @@ int main(){
                 getline(cin, data.name);
                 person.delRecord(data.name);
                 person.save();
-            break; 
+                break; 
 
             case 3:
-            cout << "Enter Name: ";
-            getline(cin, data.name);
-            person.updateRecord(data.name);
-            person.save();
-            break;
+                cout << "Enter Name: ";
+                getline(cin, data.name);
+                person.updateRecord(data.name);
+                person.save();
+                break;
 
             case 4:
-            person.display();
-            break;
+                person.display();
+                break;
 
             case 5:
-            cout << "Enter Name: ";
-            getline(cin, data.name);
-            person.searchRecord(data.name);
-            break; 
+                cout << "Enter Name: ";
+                getline(cin, data.name);
+                person.searchRecord(data.name);
+                break; 
 
             case 6:
-            running = false;
-            exit(0);
+                running = false;
+                exit(0);
+                break;
 
             default:
-            cout << "Invalid choice!!" << endl;
-            pause();
+                cout << "Invalid choice!!" << endl;
+                pause();
 
         }
     }
@@ -141,9 +149,8 @@ void MyClass::addRecord(Records data, bool isNew){
         pause();
     }
     else{
-        char choice;
-        if(locate(data.name) == -1){
-            if(isNew){
+        string choice;
+        if(isNew){
                 clearScreen();
                 cout << left << setw(10) << "Name: "
                     << right << setw(10) << data.name << endl
@@ -153,10 +160,10 @@ void MyClass::addRecord(Records data, bool isNew){
 
             
                 cout << "confirm Saving?: ";
-                cin >> choice;
+                getline(cin, choice);
                 cin.ignore();
-            }
-            if ((choice == 'Y' || choice == 'y') || !isNew){
+        }
+        if ((choice == "YES" || choice == "yes") || !isNew){
                 last++;
                 int p = locatePos(data.name)-1;
                 for (int i = last-1 ; i >= p; i--){
@@ -168,12 +175,6 @@ void MyClass::addRecord(Records data, bool isNew){
                     pause();
                     clearScreen();
                 }
-            }
-        
-        }
-        else{
-            cout << "Duplicate found" << endl;
-            pause();
         }
     }
 }
