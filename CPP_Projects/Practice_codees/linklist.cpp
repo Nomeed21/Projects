@@ -111,17 +111,12 @@ int menu(){
 
 void Student::addRecord(Record data){
     Node *p, *q, *nextNode;
-    p = q = head;
-    nextNode = new Node(data);
-    while(p!=nullptr && p->data.name != data.name){
-        q = p;
-        p = p->next;
-    }
-    
-    if(p->data.name == data.name){
-        cout << "duplicate found!" << endl;
-    }
-    else {
+    p = q  = head;
+        nextNode = new Node(data);
+        while(p!=nullptr){
+            q = p;
+            p = p->next;
+        }
         if(p==head){
             head = nextNode;
         }
@@ -129,9 +124,7 @@ void Student::addRecord(Record data){
             q->next = nextNode;
         }
         nextNode->next = p;
-    }
 }
-
 void Student::delRecord(string name){
     Node *p, *q;
     p = q = head;
