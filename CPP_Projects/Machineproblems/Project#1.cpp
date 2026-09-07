@@ -2,6 +2,8 @@
 #include <iomanip>
 #include <string>
 #include <windows.h>
+#include <chrono>
+#include <thread>
 
 
 using namespace std;
@@ -32,14 +34,14 @@ struct Node{
     Node(List newData):data(newData){}
 };
 
-class atmUser{
+class ATM{
     private:
     Node *head;
     Card data;
 
     public:
-    atmUser():head(nullptr){}
-    ~atmUser(){
+    ATM():head(nullptr){}
+    ~ATM(){
         Node *p;
         while(p!=nullptr){
             p = head;
@@ -55,30 +57,66 @@ class atmUser{
     void changepin(int newPin);
     void paybills(int choice, float amount);
     void transactionHistory();
+    void saveToDatabase();
+    void saveToCard();
+    void readDatabase();
+    bool cardInserted();
 };
 
+void sleep(int seconds);
 int menu();
 
 int main(){
+    ATM user;
+    user.readDatabase();
+    while(!user.cardInserted()){
+        cout << "Welcome!!" << endl
+        << "Please insert card to continue..." << endl;
+    }
+    
+    cout << "Reading card"; sleep(1);
+    cout << "."; sleep(1);
+    cout << "."; sleep(1);
+    cout << "." << endl;
+
+    bool running = true;
+    while(running){
+        switch(menu()){
+            case 1:
+            break;
+
+            case 2:
+            break;
+
+            case 3:
+            break;
+
+            case 4:
+            break;
+
+            case 5:
+            break;
+
+            case 6:
+            break;
+
+            case 7:
+            break;
+
+            case 8:
+            break;
+
+            case 9:
+            break;
+
+            default:
+            cout << "Invalid choice" << endl;
+        }
+    }
 
 
     return 0;
 }
-
-void atmUser::registerNewAccount(List data){
-
-}
-void atmUser::balanceInquiry(){
-    
-}
-void atmUser::withdraw(float amount){
-    
-}
-void atmUser::deposit(float amount);
-void atmUser::fundTransfer(int accNum, int amount);
-void atmUser::changepin(int newPin);
-void atmUser::paybills(int choice, float amount);
-void atmUser::transactionHistory();
 
 int menu(){
     int choice = 0;
@@ -100,8 +138,32 @@ int menu(){
         <<"[1] Pay Bills" << endl
         << "[2] Transaction History" << endl
         << "[3] Back " << endl
-        cin >> 
+        << "Select Choice: ";
+        cin >> choice;
+        return choice + 6;
+
     }
+    return choice;
 
 }
+
+void sleep(int seconds){
+    this_thread::sleep_for(chrono::seconds(seconds));
+}
+
+
+void ATM::registerNewAccount(List data){
+
+}
+void ATM::balanceInquiry(){
+    
+}
+void ATM::withdraw(float amount){
+    
+}
+void ATM::deposit(float amount);
+void ATM::fundTransfer(int accNum, int amount);
+void ATM::changepin(int newPin);
+void ATM::paybills(int choice, float amount);
+void ATM::transactionHistory();
 

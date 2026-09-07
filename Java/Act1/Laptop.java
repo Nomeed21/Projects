@@ -1,7 +1,7 @@
 package Act1;
 public class Laptop {
    String brand;
-   int laptop_dimensions;
+   int width;
    float price;
    String RAM_name;
    String RAM_type;
@@ -30,9 +30,23 @@ public class Laptop {
      this.GPU_name = GPU_name;
    }
 
-   
+    Laptop(String brand, String CPU_name, String GPU_name, int Storage_Size){
+     this.brand = brand;
+     this.CPU_Name = CPU_name;
+     this.GPU_name = GPU_name;
+     this.Storage_Size = Storage_Size;
+   }
+
+   Laptop(String brand, String CPU_name, String GPU_name, int Storage_Size, int width){
+     this.brand = brand;
+     this.CPU_Name = CPU_name;
+     this.GPU_name = GPU_name;
+     this.Storage_Size = Storage_Size;
+     this.width = width;
+   }
+
    Laptop(String brand,
-   int laptop_dimensions,
+   int width,
    float price,
    String RAM_name,
    String RAM_type,
@@ -42,7 +56,7 @@ public class Laptop {
    int Storage_Size,
    int CPU_gen){
         this.brand = brand;
-        this.laptop_dimensions = laptop_dimensions;
+        this.width = width;
         this.price = price;
         this.RAM_name = RAM_name;
         this.RAM_type = RAM_type;
@@ -72,6 +86,19 @@ public class Laptop {
 
    void runApps(){
     System.out.println("The laptop is currently running apps...");
+   }
+
+   void status(){
+    System.out.println("Brand Name: " + brand);
+    System.out.println("CPU Name: " + CPU_Name);
+    System.out.println("CPU Generation: " + CPU_gen);
+    System.out.println(" GPU Name: " + GPU_name);
+    System.out.println("Storage: " + Storage_Size);
+    System.out.println("RAM Name: " + RAM_name);
+    System.out.println("RAM Type: " + RAM_type);
+    System.out.println("RAM Size: "+ RAM_size);
+    System.out.println("Width: " + width);
+    System.out.println("Laptop price: " + price);
    }
 
 }
